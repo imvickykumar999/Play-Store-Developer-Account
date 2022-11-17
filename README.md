@@ -1,4 +1,4 @@
-# Publishing Android App
+# Publishing Android App : [Source Code](https://github.com/imvickykumar999/Android-Firebase)
 
 - [Firebase Console](https://console.firebase.google.com/u/0/project/home-automation-336c0/database/home-automation-336c0-default-rtdb/data/~2FA~2FB~2FC~2FSwitch)
 - [App Simulator](https://appetize.io/app/iqol3ip3p4wlzbiolilwnrv6tu?device=pixel4&osVersion=11.0&scale=75)
