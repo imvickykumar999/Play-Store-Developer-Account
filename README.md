@@ -5,5 +5,11 @@
 - [Google Play Testing Release](https://play.google.com/console/u/0/developers/6021388616258769103/app/4972884009396476836/tracks/4701482398952066460/releases/2/prepare)
 - [.APK to .AAB File Converter App](https://play.google.com/store/apps/details?id=com.techbajao.apktoaab&hl=en_IN&gl=US)
 - [Tutorial Video to Publish App](https://youtu.be/QgEnoK_KSp8)
-- [Stackoverflow Answer](https://stackoverflow.com/a/66622555/11493297)
 - [Google Developer Account](https://g.dev/imvickykumar999)
+
+----------------------
+
+## Stackoverflow Answers
+  - [Key signing error](https://stackoverflow.com/a/66622555/11493297)
+  - [Version code 1 has already been used](https://stackoverflow.com/a/69287448/11493297)
+  
