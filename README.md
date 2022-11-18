@@ -12,4 +12,5 @@
 ## Stackoverflow Answers
   - [Key signing error](https://stackoverflow.com/a/66622555/11493297)
   - [Version code 1 has already been used](https://stackoverflow.com/a/69287448/11493297)
+  - [This App Bundle contains Java/Kotlin code, which might be obfuscated](https://stackoverflow.com/a/65517291/11493297)
   
