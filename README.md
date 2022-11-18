@@ -9,8 +9,6 @@
 
 ----------------------
 
-![image](https://user-images.githubusercontent.com/50515418/202644250-d4a141ee-13cc-452d-b248-688f2155e33b.png)
-
 ## Stackoverflow Answers
   - [Key signing error](https://stackoverflow.com/a/66622555/11493297)
   - [Version code 1 has already been used](https://stackoverflow.com/a/69287448/11493297)
