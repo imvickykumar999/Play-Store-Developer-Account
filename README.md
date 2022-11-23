@@ -1,4 +1,4 @@
-# Publishing Android App : [Source Code](https://github.com/imvickykumar999/Android-Firebase)
+# Publishing my first Android App : [Source Code](https://github.com/imvickykumar999/Android-Firebase)
 
 [![image](https://user-images.githubusercontent.com/50515418/203515274-7b3965d5-7c78-4f7a-a031-2037aa6f3c21.png)](https://play.google.com/store/apps/details?id=com.homeautomation.iotapp)
 
