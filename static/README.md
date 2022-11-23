@@ -6,3 +6,6 @@ Getting error :
 -------------------------------------
 
 - https://github.com/imvickykumar999/Ideationology-Lab/blob/main/Hardwares/Extras/esp32_led/esp32_led.ino#L77
+- http://ai2.appinventor.mit.edu/#5050980241375232
+- https://console.firebase.google.com/u/1/project/home-automation-336c0/database/home-automation-336c0-default-rtdb/data/~2FA~2FB~2FC~2FSwitch
+- https://www.youtube.com/watch?v=yrOMIf8yVxw
