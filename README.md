@@ -18,3 +18,6 @@
   - [Version code 1 has already been used](https://stackoverflow.com/a/69287448/11493297)
   - [This App Bundle contains Java/Kotlin code, which might be obfuscated](https://stackoverflow.com/a/65517291/11493297)
   
+-----------------------------
+
+[![final block code mit](https://github.com/imvickykumar999/Smart-Battery-Manager/blob/main/final%20project/blocks%20(2).png?raw=true)](https://github.com/imvickykumar999/Smart-Battery-Manager/blob/main/final%20project/GoogleAccount_checkpoint1.apk)
