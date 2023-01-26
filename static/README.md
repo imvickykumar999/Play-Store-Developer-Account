@@ -1,4 +1,4 @@
-# This Static Folder contains some Images required for filling form on Play Store.
+## This Static Folder contains some Images required for filling form on Play Store.
 
 ### >>> Getting error :
 ![image](https://user-images.githubusercontent.com/50515418/202521001-847bafbe-3289-46fa-a7f0-f70d604308e9.png)
@@ -15,6 +15,8 @@
 - https://www.youtube.com/watch?v=Z3YdtMsGmjE
 
 --------------------------------------------
+
+# `Wi-Fi Mode`
 
     #include <WiFi.h>
     #include "FirebaseESP32.h"
@@ -63,4 +65,39 @@
         }
         delay(200);
       // put your main code here, to run repeatedly:
+    }
+
+---------------------------------------
+
+# `Bluetooth Mode`
+
+    #include <SoftwareSerial.h>
+
+    // use 10, 11 pair in Arduino Mega
+    SoftwareSerial mySerial(8, 7); // RX, TX 
+    char inputByte;
+
+    void setup() {
+     mySerial.begin(9600);
+     Serial.begin(9600);
+     Serial.println("Hello, world !");
+
+     pinMode(13,OUTPUT);
+     digitalWrite(13,HIGH);
+    }
+
+    void loop() {
+      while(mySerial.available()>0){
+
+          inputByte = mySerial.read();
+    //      Serial.println(inputByte);
+
+          if (inputByte=='1'){
+          digitalWrite(13,HIGH);
+        }
+
+        else if (inputByte=='0'){
+          digitalWrite(13,LOW);
+          } 
+        }
     }
