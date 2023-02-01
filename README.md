@@ -13,6 +13,13 @@
 - [Tutorial Video to Publish App](https://youtu.be/QgEnoK_KSp8)
 - [Google Developer Account](https://g.dev/imvickykumar999)
 
+----------------------------------
+
+## Articles
+
+- [ESP32 and ESP8266 srror solved](https://randomnerdtutorials.com/solved-arduino-ide-esp32-esp8266-installation/)
+- [NodeMCU Based 4-Channel Relay](https://www.easyelectronics.in/index.php?route=product/product&product_id=152)
+
 ----------------------
 
 ## Stackoverflow Answers
