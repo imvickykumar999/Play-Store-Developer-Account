@@ -17,7 +17,7 @@
 
 ## Articles
 
-- [ESP32 and ESP8266 srror solved](https://randomnerdtutorials.com/solved-arduino-ide-esp32-esp8266-installation/)
+- [ESP32 and ESP8266 error solved](https://randomnerdtutorials.com/solved-arduino-ide-esp32-esp8266-installation/)
 - [NodeMCU Based 4-Channel Relay](https://www.easyelectronics.in/index.php?route=product/product&product_id=152)
 
 ----------------------
